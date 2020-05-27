@@ -29,3 +29,6 @@ build/
 nbbuild/
 dist/
 nbdist/
+
+#config du IDEA
+.idea/
